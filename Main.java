@@ -10,6 +10,7 @@ public class Main {
 			// 10回目まではHello Worldを出力
 			if(i <= 10) {
 				System.out.println("Hello World");
+			// 20回目はGood Byeを出力 
 			}else if(i == 20) {
 				System.out.println("Good Bye");
 			//　11回目からはHelloのみ出力
