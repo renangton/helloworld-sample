@@ -5,6 +5,8 @@ public class Main {
 	public static void main(String[] args) {
 		// Hello Worldを出力
 		System.out.println("Hello World");
+		// テストを出力
+		System.out.println("テスト");
 				
 		for(int i = 1; i <= 20; i++) {
 			// 10回目まではHello Worldを出力
